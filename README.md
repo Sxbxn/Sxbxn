@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Sxbxn's github stats](https://github-readme-stats.vercel.app/api?username=Sxbxn&show_icons=true)
 <!--
 **Sxbxn/Sxbxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sxbxn's github stats](https://github-readme-stats.vercel.app/api?username=Sxbxn&show_icons=true)
+

@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![Sxbxn's github stats](https://github-readme-stats.vercel.app/api?username=Sxbxn&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxbxn)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Sxbxn/Sxbxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

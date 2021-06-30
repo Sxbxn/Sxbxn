@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I'm Subin 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSxbxn&count_bg=%23050F2C&title_bg=%230194DD&icon=wechat.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
-![Sxbxn's github stats](https://github-readme-stats.vercel.app/api?username=Sxbxn&show_icons=true&theme=algolia)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxbxn&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)     
+![Sxbxn's github stats](https://github-readme-stats.vercel.app/api?username=Sxbxn&show_icons=true)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxbxn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)     
 
 
 
